@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\ProjectsUE\\ObstacleAssault\\Source\\ObstacleAssault\\MovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectsUE\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectsUE\\ObstacleAssault\\Source\\ObstacleAssault\\MovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectsUE\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectsUE\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectsUE\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectsUE\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectsUE\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectsUE\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectsUE\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	}
+]
